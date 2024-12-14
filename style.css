@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;}
+
+.mine0{
+    height: 100px;
+    text-align: center;
+    width: 100%;
+}
+.mine1{
+    margin-top: 40px;
+    font-size: 100px;
+   color: rgb(98,159,240);
+    text-align: center;
+    font-weight:bold ;
+    font-family: poppins;
+}
+.p{
+    text-align: center;
+    flex-direction: column;
+    font-size: large;
+    font-family: poppins;
+}
+input{
+    width: 50%;
+    transition: 0.5s;
+}
+input:hover{
+border: 1px solid blue;
+width: 50%;
+}
+button{
+    border-radius: 40%;
+    background-color: rgb(104,81,255);
+    width: 120px;
+    height: 50px;
+}
+.p3{
+    color: rgb(104,81,255);
+    margin-top: 10px;
+    font-weight: bolder;
+    font-family: poppins;
+}
+.mine19{
+    margin-top: 30px;
+    color: #6851ff;
+    font-family: poppins;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.mine20{
+    color: black;
+}
+.hello{
+    color: #6851ff;
+    font-family: poppins;
+    font-weight: bold;
+}
+.mine21{
+    color: black;
+    font-family: poppins;
+    font-weight: bold;
+    margin-top: 50px;
+    text-align: center;
+}
+.mine22{
+    text-align: center;
+    font-size: larger;
+    margin-top: -5px;
+}
+.card-text{
+    color: black;
+    font-family: poppins;
+}
+.card-title{
+    font-weight: bold;
+    text-align: center;
+}
+.mine23{
+    color: #6851ff;
+    font-weight: bold;
+    font-family: poppins;
+}
+.mine24{
+color: black;
+font-weight: bold;
+font-family: poppins;
+text-align: center;
+}
+.mine25{
+    text-align: center;
+    font-size: large;
+}
+.card{
+    transition: all 0.2s;
+}
+.card:hover{
+    transform: translateX(5px);
+    cursor: pointer;
+}
+.img1{
+
+    margin-top: 50PX; */
+}
+.mine26{
+    color: #6851ff;
+    text-align: center;
+    font-family: poppins;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.mine27{
+    color: black;
+    font-weight: bold;
+    font-family: poppins;
+}
+.TEXT1111{
+    color: #6851ff;
+    font-family: POPPINS;
+    text-align: center;
+ font-weight: bold;}
+.TEXT22{
+    color: black;
+    font-family: POPPINS;
+    text-align: center;
+    font-weight: bold;
+}
+.img4{
+    margin-top: 30%;
+    padding-left: 90px;
+    /* justify-content: center; */
+}
+.mine12{
+    color: white;
+    margin-top: -19px;
+    text-align: center;
+    font-family: poppins;
+}
+.mine33{
+    text-align: center;
+    color: white;
+    font-family: poppins;
+}
+.mine36{
+    color: white;
+    text-align: center;
+    font-family: poppins;
+    margin-top: 30%;
+    text-transform: uppercase;
+}
+.text565{
+    color: white;
+    margin-top: 20px;
+    font-size: large;
+    font-weight: bold;
+    font-family: poppins;
+    text-align: center ;
+}
+.minin{
+    display: flex;
+    justify-content: space-between  ;
+    width: 30%;
+}
+.hr{
+    color: white;
+}
+.divend:hover{
+text-decoration: underline;
+}
+.divend{
+    transition: 1s;
+}
